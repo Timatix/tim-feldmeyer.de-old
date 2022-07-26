@@ -395,10 +395,10 @@ body.dark .loader_line:after{
 	border-radius: 6px;
 }
 .beny_tm_topbar ul li:last-child:hover a{
-	border-color: #D6002F;
+	border-color: #2b2e83;
 }
 .beny_tm_topbar ul li:last-child.current a{
-	border-color:#D6002F;
+	border-color:#2b2e83;
 }
 .beny_tm_topbar ul li .first{
 	display: block;
@@ -433,7 +433,7 @@ body.dark .loader_line:after{
 	display: block;
 }
 .beny_tm_topbar ul li.current a{
-	color: #D6002F;
+	color: #2b2e83;
 }
 .beny_tm_topbar ul li.current a .first{
 	transform: translateY(-150%);
@@ -443,7 +443,7 @@ body.dark .loader_line:after{
 	transform: translateY(-50%);
 }
 .beny_tm_topbar ul li a:hover{
-	color: #D6002F;
+	color: #2b2e83;
 }
 
 /*---------------------------------------------------*/
@@ -627,7 +627,7 @@ body.dark .loader_line:after{
 	transition-delay: .3s;
 }
 .beny_tm_hero .content .job span{
-	color: #D6002F;
+	color: #2b2e83;
 }
 .beny_tm_hero .content .text{
 	margin-bottom: 40px;
@@ -690,7 +690,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .beny_tm_hero .mobile_social ul li a:hover{
-	color: #D6002F;
+	color: #2b2e83;
 }
 .beny_tm_button{
 	width: 100%;
@@ -763,15 +763,15 @@ body.dark .loader_line:after{
 }
 .beny_tm_button.color a{
 	color: #fff;
-	background-color: #D6002F;
-	border-color: #D6002F;
+	background-color: #2b2e83;
+	border-color: #2b2e83;
 }
 .beny_tm_button.color a:hover{
 	color: #fff;
 }
 .beny_tm_button a:hover{
-	color: #D6002F;
-	border-color: #D6002F;
+	color: #2b2e83;
+	border-color: #2b2e83;
 }
 .beny_tm_contact .beny_tm_button a{
 	padding: 10px 40px;
@@ -809,7 +809,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .beny_tm_hero .social ul li a:hover{
-	color: #D6002F;
+	color: #2b2e83;
 }
 .beny_tm_all_wrap.animate .beny_tm_hero .social{
 	right: 60px;
@@ -838,7 +838,7 @@ body.dark .loader_line:after{
 .beny_tm_title_holder span{
 	display: inline-block;
 	position: relative;
-	color: #D6002F;
+	color: #2b2e83;
 	font-weight: 500;
 	font-size: 16px;
 	margin-bottom: 12px;
@@ -848,7 +848,7 @@ body.dark .loader_line:after{
 	content: "";
 	width: 40px;
 	height: 1px;
-	background-color: #D6002F;
+	background-color: #2b2e83;
 	top: 50%;
 	transform: translateY(-50%);
 	left: 100%;
@@ -1074,7 +1074,7 @@ body.dark .loader_line:after{
 }
 .progress_inner .background .bar_in{
 	height:100%;
-	background:#D6002F;
+	background:#2b2e83;
 	width:0px;
 	overflow:hidden;
 	border-radius: 18px;
@@ -1176,7 +1176,7 @@ body.dark .loader_line:after{
 .beny_tm_services ul li .svg{
 	width: 50px;
 	height: 50px;
-	color: #D6002F;
+	color: #2b2e83;
 	margin-bottom: 25px;
 	fill:none;
 }
@@ -1252,14 +1252,14 @@ body.dark .loader_line:after{
 }
 .beny_tm_services ul li .list_inner:hover .learn_more span{
 	width: 30px;
-	background-color: #D6002F;
+	background-color: #2b2e83;
 }
 .beny_tm_services ul li .list_inner:hover .learn_more span:before,
 .beny_tm_services ul li .list_inner:hover .learn_more span:after{
-	background-color : #D6002F;
+	background-color : #2b2e83;
 }
 .beny_tm_services ul li .list_inner:hover .learn_more{
-	color : #D6002F;
+	color : #2b2e83;
 }
 .beny_tm_full_link{
 	position: absolute;
@@ -1675,7 +1675,7 @@ body.dark .loader_line:after{
 	content: "";
 	width: 100px;
 	height: 2px;
-	background-color: #D6002F;
+	background-color: #2b2e83;
 	left: 0px;
 	top: 50%;
 	transform: translateY(-50%);
@@ -1709,8 +1709,8 @@ body.dark .loader_line:after{
 }
 .beny_tm_testimonials .left_nav:hover,
 .beny_tm_testimonials .right_nav:hover{
-	border-color: #D6002F;
-	background-color: #D6002F;
+	border-color: #2b2e83;
+	background-color: #2b2e83;
 }
 .beny_tm_testimonials .left_nav{
 	left: 0px;
@@ -1857,7 +1857,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .beny_tm_news ul li .details span a:hover{
-	color: #D6002F;
+	color: #2b2e83;
 }
 .beny_tm_news ul li .details span a:before{
 	position: relative;
@@ -1880,7 +1880,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .beny_tm_news ul li .details .title a:hover{
-	color: #D6002F;
+	color: #2b2e83;
 }
 .beny_tm_modalbox_service .description_wrap::-webkit-scrollbar,
 .beny_tm_modalbox_news .description_wrap::-webkit-scrollbar{
@@ -2063,7 +2063,7 @@ body.modal{
 	font-size: 20px;
 	font-style: italic;
 	margin-bottom: 23px;
-	border-left: 2px solid #D6002F;
+	border-left: 2px solid #2b2e83;
 	padding-left: 30px;
 	color: #000;
 }
@@ -2110,7 +2110,7 @@ body.modal{
 	        transition: all .3s ease;
 }
 .beny_tm_modalbox_news .news_share ul li a:hover{
-	color: #D6002F;
+	color: #2b2e83;
 }
 .beny_tm_modalbox_news .news_share ul li .svg{
 	width: 15px;
@@ -2300,7 +2300,7 @@ body.modal{
 .beny_tm_totop{
 	position: relative;
 	overflow: hidden;
-	background-color: #D6002F;
+	background-color: #2b2e83;
     padding: 22px;
     border-radius: 3px;
     display: inline-block;
@@ -2337,7 +2337,7 @@ body.modal{
   width: 6px;
   height: 6px;
   z-index: 100;
-  background-color: #D6002F;
+  background-color: #2b2e83;
   -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -2346,7 +2346,7 @@ body.modal{
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #D6002F;
+  background-color: #2b2e83;
   opacity: .3;
 }
 .cursor-outer {
@@ -2354,7 +2354,7 @@ body.modal{
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 2px solid #D6002F;
+  border: 2px solid #2b2e83;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 100;
