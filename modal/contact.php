@@ -1,7 +1,7 @@
 <?php
 
 // Put contacting email here
-$php_main_email = "mail@tim-feldmeyer.de";
+$php_main_email = "tim.feldmeyer@web.de";
 
 //Fetching Values from URL
 $php_name = $_POST['ajax_name'];
@@ -26,7 +26,7 @@ if (filter_var($php_email, FILTER_VALIDATE_EMAIL)) {
 		$php_headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 		$php_headers .= 'From:' . $php_email. "\r\n"; // Sender's Email
 		$php_headers .= 'Cc:' . $php_email. "\r\n"; // Carbon copy to Sender
-		$php_headers .= 'Bcc:' . $php_main_email. "\r\n"; // Blind carbon copy to Reciepient
+	//	$php_headers .= 'Bcc:' . $php_main_email. "\r\n"; // Blind carbon copy to Reciepient
 
 
 		
