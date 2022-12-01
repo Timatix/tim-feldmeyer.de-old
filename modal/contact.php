@@ -17,10 +17,10 @@ $php_email = filter_var($php_email, FILTER_SANITIZE_EMAIL);
 
 //After sanitization Validation is performed
 if (filter_var($php_email, FILTER_VALIDATE_EMAIL)) {
-	
-	
+
+
 		$php_subject = "Nachricht über das Kontaktformular - Tim Feldmeyer";
-		
+
 		// To send HTML mail, the Content-type header must be set
 		$php_headers = 'MIME-Version: 1.0' . "\r\n";
 		$php_headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
@@ -29,7 +29,7 @@ if (filter_var($php_email, FILTER_VALIDATE_EMAIL)) {
 	//	$php_headers .= 'Bcc:' . $php_main_email. "\r\n"; // Blind carbon copy to Reciepient
 
 
-		
+
 		$php_template = '<div style="padding:50px;">Hallo ' . $php_name . ',<br/>'
 		. 'Vielen Dank für deine Anfrage. Hier eine kurze Zusammenfassung deiner Anfrage:<br/><br/>'
 		. '<strong style="color:#2b2e83;">Name:</strong>  ' . $php_name . '<br/>'
